@@ -1,2 +1,1 @@
-# Java
-first print in java
+c
